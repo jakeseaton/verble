@@ -1,4 +1,4 @@
 verble
 ======
 
-language learning
+flashcards for italian
