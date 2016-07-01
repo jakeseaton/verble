@@ -1,4 +1,4 @@
 verble
 ======
 
-flashcards for italian
+teaching my computer to teach me italian
